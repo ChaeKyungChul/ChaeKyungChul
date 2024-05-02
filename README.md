@@ -1,17 +1,17 @@
-[![](https://github.com/walleeva2018/walleeva2018/blob/main/a%20(2)%20(1).gif?raw=true)]<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/chaekyungchul/chaekyungchul/blob/main/a%20(2)%20(1).gif?raw=true)]<!-- If you want the template for my gif, email me! -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
 
-<img src="https://profile-counter.glitch.me/walleeva2018/count.svg">
+<img src="https://profile-counter.glitch.me/chaekyungchul/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/walleeva2018.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/chaekyungchul.svg?style=social&label=Followers)](https://github.com/chaekyungchul?tab=followers)
 
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
+![chaekyungchul GitHub stats](https://github-readme-stats.vercel.app/api?username=chaekyungchul&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaekyungchul&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chaekyungchul&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaekyungchul)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages I'm good at
@@ -40,11 +40,11 @@
 
 ### Competitive Programming Profiles (Judge me by my Prime) <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
 
-<a href="https://leetcode.com/walleeva2018/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://leetcode.com/chaekyungchul/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
 <a href="https://codeforces.com/profile/walleeva">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
 <a href="https://www.codechef.com/users/mcqueen2018">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
-<a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="https://www.hackerearth.com/@walleeva2018">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
+<a href="https://www.hackerrank.com/chaekyungchul?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://www.hackerearth.com/@chaekyungchul">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
 <br>
 [Atcoder](https://atcoder.jp/users/walleeva)
 <br>
@@ -66,9 +66,9 @@
 
 ### Open Source 
 
-<a href="https://github.com/walleeva2018/problem-tutorials">
+<a href="https://github.com/chaekyungchul/problem-tutorials">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaekyungchul&repo=problem-tutorials&theme=onedark" />
 </a>  
 
 
@@ -84,31 +84,31 @@
 
 ### Some of my cool public repositories (not forks):
 
-<a href="https://github.com/walleeva2018/ML">
+<a href="https://github.com/chaekyungchul/ML">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaekyungchul&repo=ML&theme=onedark" />
 </a>  
 
-<a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
+<a href="https://github.com/chaekyungchul/Bangla-desktop-Voice-assistance">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaekyungchul&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
 </a>  
 
-<a href="https://github.com/walleeva2018/Web">
+<a href="https://github.com/chaekyungchul/Web">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Web&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaekyungchul&repo=Web&theme=onedark" />
 </a>  
 
-<a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
+<a href="https://github.com/chaekyungchul/Assistance-for-Blind-People">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaekyungchul&repo=Assistance-for-Blind-People&theme=onedark" />
 </a>  
 
 
 
 
 ### Thank you for visiting my profile 🤓 Here is a midjourney image of my everyday situation 
-[![](https://github.com/walleeva2018/walleeva2018/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg?raw=true)]
+[![](https://github.com/chaekyungchul/chaekyungchul/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg?raw=true)]
 
 ### Feel free to fork and 🌟 this repo!!
 
@@ -116,4 +116,6 @@
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-ahmed-rafi-95ba3322a/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mcqueen2837)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100015181156377)
 <br> <br>
+
+
 
